@@ -1,0 +1,24 @@
+.info-block {
+	  position:absolute;
+	  left:150px;
+	  top:20px;
+	  background-color:rgba(13, 13, 13, 0.9);	  
+	background:transparent;
+ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#b1b1b1);
+ zoom: 1;
+  }
+  a.button {
+  }
+ .button span {
+	 display: inline;
+	 padding:4px 22px 9px 0px;
+}
+.button span i{
+   position: absolute;
+   right: 5px;
+}
+.post-item {
+	margin:0 16px 17px 0;
+	display:block;
+	float:left;
+}
